@@ -1,0 +1,67 @@
+
+
+.navbar-logo {
+    width:4.6875rem;
+    height: 4.6875rem;
+    border-radius: 3rem;
+}
+
+.studies_style {
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(38,34,36,0.5);
+   }
+
+.carousel-image {
+    height: 90vh;
+}
+
+.section-style {
+    
+}
+
+.app-list {
+    list-style-type:circle;
+}
+
+.img-details {
+    
+    height: 300px;
+    width: 300px;
+    border-radius: 900px;
+    
+   
+}
+
+.icon {
+    height: 3rem;
+    width: 3rem;
+}
+
+.pimg1, .pimg2, .pimg3 {
+    position: relative;
+    opacity: 0.70;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.pimg1 {
+    background-image: url('/images/pimg1.jpg');
+    min-height: 400px;
+}
+
+.pimg2 {
+    background-image: url('/images/pimg2.jpg');
+    min-height: 400px;
+}
+
+.pimg3 {
+    background-image: url('/images/pimg3.jpg');
+    min-height: 400px;
+}

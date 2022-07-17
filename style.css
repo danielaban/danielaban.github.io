@@ -33,8 +33,10 @@
     height: 300px;
     width: 300px;
     border-radius: 900px;
-    
-   
+}
+
+.btn-click:hover {
+    background-color: green;
 }
 
 .icon {
